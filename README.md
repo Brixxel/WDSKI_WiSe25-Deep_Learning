@@ -2,7 +2,7 @@
 Collection of code exercises, lab assignments, and bonus task solutions for the Deep Learning lecture.
 
 
-# Deep Learning Lecture Repository 🧠
+# Deep Learning Lecture Repository
 
 ![Status](https://img.shields.io/badge/Status-Active-green) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
