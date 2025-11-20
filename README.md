@@ -1,7 +1,3 @@
-# WDSKI_WiSe25-Deep_Learning
-Collection of code exercises, lab assignments, and bonus task solutions for the Deep Learning lecture.
-
-
 # Deep Learning Lecture Repository
 
 ![Status](https://img.shields.io/badge/Status-Active-green) ![Language](https://img.shields.io/badge/Language-Python-blue)
@@ -35,7 +31,7 @@ To run the code locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-username]/[repo-name].git
+    git clone https://github.com/Brixxel/WDSKI_WiSe25-Deep_Learning.git
     ```
 
 2.  **Install dependencies:**
