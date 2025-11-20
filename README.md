@@ -57,5 +57,5 @@ This code is provided for educational purposes and to document my learning journ
 
 ## 📬 Contact
 
-* **Author:** [Your Name]
-* **GitHub:** [@YourUsername](https://github.com/YourUsername)
+* **Author:** Felix Niklas Regler
+* **GitHub:** (https://github.com/Brixxel)
